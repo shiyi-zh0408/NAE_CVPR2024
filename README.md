@@ -1,1 +1,2 @@
-# NAE_CVPR2024
+# Narrative Action Evaluation with Prompt-Guided Multimodal Interaction
+coming soon...
