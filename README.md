@@ -16,7 +16,7 @@ In this paper, we investigate a new problem called <font color=red>**Narrative A
 
 ## 💡 NAE Task
 
-<img src="./assets/NAE.pdf" style="zoom:150%;" />
+<img src="./assets/NAE.png" style="zoom:150%;" />
 
 In comparison to **Action Quality Assessment**, NAE provides rich language $\pmb{\color{rgb(207,115,52)}{Descriptions}}$. When compared to **Video Captioning**, NAE includes much more evaluation information such as $\pmb{\color{rgb(192,0,0)}{Scores}}$, $\pmb{\color{rgb(47,85,151)}{Actions}}$, and $\pmb{\color{rgb(109,149,82)}{Qualitative\ Evaluations}}$, which is often rigorous and granular.
 
