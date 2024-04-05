@@ -36,7 +36,7 @@ In comparison to **Action Quality Assessment**, NAE provides rich language $\pmb
 
 ![](./assets/visual1.png)
 
-<img src="./assets/visual2.pdf" style="zoom:150%;" />
+<img src="./assets/visual2.png" style="zoom:150%;" />
 
 **Qualitative results.** Our model can generate detailed narrations including $\pmb{\color{rgb(192,0,0)}{Scores}}$, $\pmb{\color{rgb(47,85,151)}{Actions}}$, and $\pmb{\color{rgb(109,149,82)}{Qualitative\ Evaluations}}$ to describe and evaluate the actions comprehensively. Notably, the model can analyze the quality of actions by pointing out the details of the execution.
 
