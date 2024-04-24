@@ -2,7 +2,7 @@
 
 ### <p align="center">*[Shiyi Zhang\*](https://shiyi-zh0408.github.io/), [Sule Bai\*](https://sulebai.github.io/), [Guangyi Chen](https://chengy12.github.io/), [Lei Chen](http://ivg.au.tsinghua.edu.cn/people/Lei_Chen/), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), Junle Wang, [Yansong Tang†](https://andytang15.github.io/)*</p>
 
-#### <p align="center">[[paper]]() </p>
+#### <p align="center">[[paper]](https://arxiv.org/abs/2404.14471) </p>
 
 This repository contains the PyTorch implementation for the paper "Narrative Action Evaluation with Prompt-Guided Multimodal Interaction" (CVPR 2024)
 
